@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T09:27:17.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qOw5C5dqFNVwd3L8WL6d" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:31:17.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8VehcbzXAFHLIhnBnuEj" version="21.0.6" type="github">
   <diagram name="第 1 页" id="lMqXDjT0-Osc_c8zB9kQ">
     <mxGraphModel dx="1368" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -13,8 +13,20 @@
             <mxPoint x="420" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nkRAWRB7QTpRWoVHKGXE-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="nkRAWRB7QTpRWoVHKGXE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkRAWRB7QTpRWoVHKGXE-4" target="nkRAWRB7QTpRWoVHKGXE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkRAWRB7QTpRWoVHKGXE-4" value="网关" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="197.5" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="nkRAWRB7QTpRWoVHKGXE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkRAWRB7QTpRWoVHKGXE-8" target="nkRAWRB7QTpRWoVHKGXE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkRAWRB7QTpRWoVHKGXE-8" value="是否启用api权限&lt;br&gt;apiproduct和ruleengine类型的服务跳过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="185" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nkRAWRB7QTpRWoVHKGXE-10" value="校验权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
