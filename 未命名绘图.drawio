@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:33:40.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="i6VSJoxl5AQLFV20EhKv" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-27T06:24:48.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="azEQR4igFrX_kkTDRo9v" version="21.1.7" type="github" pages="2">
   <diagram name="规则引擎" id="lMqXDjT0-Osc_c8zB9kQ">
-    <mxGraphModel dx="1368" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="Ies4CJbf-FAV-6-cfxqr-11" value="apiproduct类型服务api会继承权限&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="880" y="135" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lvQHiRlJNacJ52zLgOht-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=22.299999999999955;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="175" y="657.25" width="110" height="31.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
